@@ -20,6 +20,7 @@ test("should create an issue", async ({ page }) => {
   await page.getByRole("link", { name: "New issue" }).click();
 
   // complete create issue journey
+
   await page
     .getByRole("textbox", { name: "Add a title" })
     .fill("This is a new issue");
@@ -27,5 +28,6 @@ test("should create an issue", async ({ page }) => {
   await page.getByRole("button", { name: "Submit new issue" }).click();
 
   // confirm the issue is created
+
   await page.getByRole("heading", { name: /This is a new issue/i }).waitFor();
 });
