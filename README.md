@@ -8,7 +8,7 @@ Example playright project testing creating issues on a repository.
 2. Can handle authentication in a reusable way
 3. Can write tests that interact with the page as a user would
 4. Can write reusable actions
-5. Has an intersting challenge where the same names button is on the page twce but once needs the selector narrowed to within a dialog
+5. Has an intersting challenge where the same names button is on the page twice but one needs the selector narrowed to within a dialog
 6. Has an interesting scenario where you need to wait for some confirmation text to appear before you can hit a button that is disabled until the confirmtion text appears
 
 ## Time to write
