@@ -1,8 +1,8 @@
-# Playwright Github
+# Playwright Github
 
 Example playright project testing creating issues on a repository.
 
-## What is this checking
+## What is this checking
 
 1. Can setup an automation project with sensible configuration setup (.env)
 2. Can handle authentication in a reusable way
