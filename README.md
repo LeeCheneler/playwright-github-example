@@ -11,6 +11,6 @@ Example playright project testing creating issues on a repository.
 5. Has an intersting challenge where the same names button is on the page twice but one needs the selector narrowed to within a dialog
 6. Has an interesting scenario where you need to wait for some confirmation text to appear before you can hit a button that is disabled until the confirmtion text appears
 
-## Time to write
+## Estimated time
 
-About 2 hours while watching TV 😅 used playwright as I hadn't used it in a little while.
+1-2 hours.
